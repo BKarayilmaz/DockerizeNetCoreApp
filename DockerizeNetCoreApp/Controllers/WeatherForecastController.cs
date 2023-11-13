@@ -17,7 +17,7 @@ namespace DockerizeNetCoreApp.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Dockerize .Net Core API 1.0";
+            return "Dockerize .Net Core API 0.1";
         }
     }
 }
